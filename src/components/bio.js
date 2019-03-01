@@ -40,7 +40,7 @@ function Bio() {
             <p>
               Written by <strong>{author}</strong> who is a student at Lambda School learning to build useful things.
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
+              <a style={{ color:`#cad2c5`}} href={`https://twitter.com/${social.twitter}`}>
                 You should follow him on Twitter
               </a>
             </p>
