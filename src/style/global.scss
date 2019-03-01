@@ -7,13 +7,17 @@ h1, h3{
 }
 
 a{
+  link{
+    color: white;
+  }
   &:visited{
     color: #CAD2C5
   };
   &:hover{
     color: #CAD2C5
   };
-  color:#CAD2C5;
+  color: white;
+ 
 }
 
 p{
