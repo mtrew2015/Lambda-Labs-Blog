@@ -13,16 +13,16 @@ class Layout extends React.Component {
       header = (
         <h1
           style={{
-            
             marginBottom: rhythm(1.5),
             marginTop: 0,
+            color: `white`,
           }}
         >
           <Link
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `inherit`,
+              color: `white`,
             }}
             to={`/`}
           >
@@ -42,7 +42,7 @@ class Layout extends React.Component {
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `inherit`,
+              color: `white`,
             }}
             to={`/`}
           >
