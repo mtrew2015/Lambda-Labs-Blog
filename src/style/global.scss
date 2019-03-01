@@ -1,5 +1,5 @@
 html{
-  background-color: lightslategray;
+background-color:#568EA3;
 }
 
 h1, h3{
@@ -7,7 +7,13 @@ h1, h3{
 }
 
 a{
-  color:crimson;
+  &:visited{
+    color: #CAD2C5
+  };
+  &:hover{
+    color: #CAD2C5
+  };
+  color:#CAD2C5;
 }
 
 p{
