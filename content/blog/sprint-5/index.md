@@ -1,0 +1,15 @@
+---
+title: Fifth Sprint  
+date: "2019-05-04T12:00z"
+description: Sprint 5 - UI/UX and working through challenges
+---
+
+As we start the fifth and final sprint for Lambda Labs, it has been a very fun journey, but not one that hasn't seen its fair share of setbacks and challenges. I however, embrace challenges as I believe overcoming challenges makes you stronger as a person.
+
+First I will discuss what we worked on the past two weeks as a team, and then reflect on the entire two weeks. It was a continuation of fixing bugs in the app, and continuing to enhance the ui/ux experience for the end user. We used a lot of CSS properties as we believe it is cleaner code than using libraries, and we can make it look just as good as a bootstrap library would potentially look. 
+
+One of the bigger pieces I worked on was designing a pretty complex piece of code within the search page. The challenge with the coding of this page is the way that the GraphQL is set up. There are different scenarios where it would render different things depending on what the app was doing and what data was being returned by GraphQL queries. This caused a challenge since the data must be replicated in several different spots. The other challenge was some of the scenarios were using components while other portions were not. In hindsight, it would have been easier to make all of them reusable components, but that is something we can refactor in the future. The other challenge was SASS files that we are using for styling, ensuring that classnames are unique as so one part of the app doesn't affect another part of the app that is not intended.
+
+However the main challenge of the entire labs project has really come down to a couple things. Our team was super ambitious and picked almost entirely new tech stack to learn and implement in a very short time. I believe we were overly optimistic about time frames and how long things would take to develop. We learned the technologies in an appropriate time frame and we were able to implement them successfully by all measures. Sure some of the code isn't as efficient as it could have been given we had more experience with the stack, but the lessons and the experience of jumping in and learning new stuff head on has been a huge success on this project. 
+
+The biggest issue however, is the loss of developers on this project. We had started out with 6 developers and we lost two right off the bat for personal reasons, we have been playing catch up for most of labs due to being down two people, however we have fought hard. However, with a week to go another member had to leave the project due to personal reasons, and this was unfortunately the setback that caused us to miss the initial deadline for labs. However, we are in it, and we will overcome this challenge if I have to code 12 hours a day to make it happen. We have two more weeks of extended time to complete the project, and I will fight and code hard to make sure it happens.
